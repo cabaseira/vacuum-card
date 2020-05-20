@@ -1,0 +1,37 @@
+{
+  "status": {
+    "Cleaning": "Limpiando",
+    "Paused": "En pausa",
+    "Idle": "Inactiva",
+    "Charging": "Cargando",
+    "Returning home": "Volviendo a la base"
+  },
+  "common": {
+    "name": "Tarjeta de aspiradora",
+    "description": "La tarjeta de aspiradora te permite controlar tu robot aspirador.",
+    "start": "Limpiar",
+    "continue": "Continuar",
+    "pause": "Pausa",
+    "stop": "Detener",
+    "return_to_base": "Base",
+    "locate": "Localizar aspiradora"
+  },
+  "error": {
+    "missing_entity": "Es necesario especificar la entidad!"
+  },
+  "editor": {
+    "entity": "Entidad (Obligatorio)",
+    "map": "Cámara de mapa (Opcional)",
+    "image": "Imagen (Opcional)",
+    "compact_view": "Vista compacta",
+    "compact_view_aria_label_on": "Activar vista compacta",
+    "compact_view_aria_label_off": "Desactivar vista compacta",
+    "show_name": "Muestra nombre",
+    "show_name_aria_label_on": "Activa mostrar nombre",
+    "show_name_aria_label_off": "Desactiva mostrar nombre",
+    "show_toolbar": "Muestra barra de herramientas",
+    "show_toolbar_aria_label_on": "Activa barra de herramientas",
+    "show_toolbar_aria_label_off": "Desactiva barra de herramientas",
+    "code_only_note": "Nota: Las opciones de configuración de acciones y estadísticas están disponibles exclusivamente con el Editor de Código."
+  }
+}
