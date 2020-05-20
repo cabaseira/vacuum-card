@@ -1,0 +1,37 @@
+{
+  "status": {
+    "Cleaning": "Limpando",
+    "Paused": "En pausa",
+    "Idle": "Inactiva",
+    "Charging": "Cargando",
+    "Returning home": "Volvendo á base"
+  },
+  "common": {
+    "name": "Tarxeta de aspiradora",
+    "description": "A tarxeta de aspiradora permíteche controlar o teu robot aspirador.",
+    "start": "Limpar",
+    "continue": "Continuar",
+    "pause": "Pausa",
+    "stop": "Deter",
+    "return_to_base": "Base",
+    "locate": "Localizar aspiradora"
+  },
+  "error": {
+    "missing_entity": "É necesario especificar a entidade!"
+  },
+  "editor": {
+    "entity": "Entidade (Obrigatorio)",
+    "map": "Cámara de mapa (Opcional)",
+    "image": "Imaxe (Opcional)",
+    "compact_view": "Vista compacta",
+    "compact_view_aria_label_on": "Activar vista compacta",
+    "compact_view_aria_label_off": "Desactivar vista compacta",
+    "show_name": "Mostra nome",
+    "show_name_aria_label_on": "Activa mostrar nome",
+    "show_name_aria_label_off": "Desactiva mostrar nome",
+    "show_toolbar": "Mostra barra de ferramentas",
+    "show_toolbar_aria_label_on": "Activa barra de ferramentas",
+    "show_toolbar_aria_label_off": "Desactiva barra de ferramentas",
+    "code_only_note": "Nota: As opcións de configuración de accións e estatísticas están dispoñibles exclusivamente co Editor de Código."
+  }
+}
